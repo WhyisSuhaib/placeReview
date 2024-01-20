@@ -1,4 +1,4 @@
-# Tirp Review
+# Trip Review
 
 A Flutter UI design project where users can view and provide reviews for a place while obtaining basic information.
 
