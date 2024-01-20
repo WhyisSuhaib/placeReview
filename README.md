@@ -1,16 +1,7 @@
-# going_somewhere
+# Tirp Review
 
-A new Flutter project.
+A Flutter UI design project where users can view and provide reviews for a place while obtaining basic information.
 
-## Getting Started
+![Screenshot_20240120-213839_going_somewhere](https://github.com/WhyisSuhaib/placeReview/assets/42011643/21b4b180-c0b4-40ac-bc6c-34becd06e1b8)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/WhyisSuhaib/placeReview/assets/42011643/e56cb97b-dcec-4fc5-9a34-c5b18572e83d
